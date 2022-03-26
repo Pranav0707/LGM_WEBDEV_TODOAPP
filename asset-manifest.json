@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LGMVIP--WEBDEV/static/css/main.2506a641.css",
-    "main.js": "/LGMVIP--WEBDEV/static/js/main.b4ef74c4.js",
-    "static/js/787.ba83e6d9.chunk.js": "/LGMVIP--WEBDEV/static/js/787.ba83e6d9.chunk.js",
-    "index.html": "/LGMVIP--WEBDEV/index.html",
-    "main.2506a641.css.map": "/LGMVIP--WEBDEV/static/css/main.2506a641.css.map",
-    "main.b4ef74c4.js.map": "/LGMVIP--WEBDEV/static/js/main.b4ef74c4.js.map",
-    "787.ba83e6d9.chunk.js.map": "/LGMVIP--WEBDEV/static/js/787.ba83e6d9.chunk.js.map"
+    "main.css": "/LGM_WEBDEV_TODOAPP/static/css/main.2506a641.css",
+    "main.js": "/LGM_WEBDEV_TODOAPP/static/js/main.5816bd42.js",
+    "static/js/787.ba83e6d9.chunk.js": "/LGM_WEBDEV_TODOAPP/static/js/787.ba83e6d9.chunk.js",
+    "index.html": "/LGM_WEBDEV_TODOAPP/index.html",
+    "main.2506a641.css.map": "/LGM_WEBDEV_TODOAPP/static/css/main.2506a641.css.map",
+    "main.5816bd42.js.map": "/LGM_WEBDEV_TODOAPP/static/js/main.5816bd42.js.map",
+    "787.ba83e6d9.chunk.js.map": "/LGM_WEBDEV_TODOAPP/static/js/787.ba83e6d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2506a641.css",
-    "static/js/main.b4ef74c4.js"
+    "static/js/main.5816bd42.js"
   ]
 }
